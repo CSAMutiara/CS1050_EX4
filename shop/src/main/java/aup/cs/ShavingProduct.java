@@ -6,7 +6,7 @@ import java.util.Arrays;
  * ShavingProduct: Super Class.
  */
 
-public class ShavingProduct extends Product{
+public class ShavingProduct extends Product {
     
     /**
      * ShavingProduct constructor.
